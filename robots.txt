@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://balympasi.github.io/sitemap.html.gz
+Sitemap: https://balympasi.github.io/app/sitemap.html.gz
+Sitemap: https://balympasi.github.io/assets/sitemap.html.gz
+Sitemap: https://balympasi.github.io/css/sitemap.html.gz
+Sitemap: https://balympasi.github.io/includes/sitemap.html.gz
+Sitemap: https://balympasi.github.io/item/sitemap.html.gz
+Sitemap: https://balympasi.github.io/src/sitemap.html.gz
